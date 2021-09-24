@@ -1,7 +1,6 @@
 programa
 {
 	inclua biblioteca Matematica
-	
 	funcao inicio()
 	{
 		//inicio ok
@@ -17,11 +16,11 @@ programa
 		escrever("Digite valor de y2")
 		leia(y2)
 		//processamento ok
-		D= matematica.arredondar(matematica.raiz((matematica.potencia ((x2 - x1),2) + matematica.potencia(y2-y1),2),2))
+		D= matematica.arredondar (matematica.raiz((matematica.potencia ((x2 - x1),2) + matematica.potencia(y2-y1),2),2))
 		//saida ok
 		escreva("O valor de D é: ",d)
 		
-		
+		//incompleta
 		
 		
 		
@@ -34,7 +33,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 360; 
+ * @POSICAO-CURSOR = 509; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
