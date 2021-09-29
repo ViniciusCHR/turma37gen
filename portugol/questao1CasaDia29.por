@@ -14,7 +14,12 @@ programa
 			maiorNota= p[x]		
 		}
 		}
-		escreva("O valor da maior atividade é: \n"+maiorNota)
+		escreva("\nO valor da primeira atividade é: "+p[0])
+		escreva("\nO valor da segunda atividade é: "+p[1])
+		escreva("\nO valor da terceira atividade é: "+p[2])
+		escreva("\nO valor da quarta atividade é: "+p[3])
+		escreva("\nO valor da quinta atividade é: "+p[4])
+		escreva("\nO valor da maior atividade é: "+maiorNota)
 		
 	}
 }
@@ -23,7 +28,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 9; 
+ * @POSICAO-CURSOR = 705; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
